@@ -1,6 +1,6 @@
 # Example Data (Ayutthaya) 
 
-*we split data into train and test dataset.*
+*We split the data into training and test datasets.*
 
 ## All data in this folder consists of...
 1. csv files
